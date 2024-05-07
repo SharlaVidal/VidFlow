@@ -14,7 +14,7 @@ Navegador da web.
 
 
 Instalação
-Clone este repositório: git clone https://github.com/SeijiGabriel/VidFLow.git
+Clone este repositório,
 Navegue até o diretório do projeto: cd vidflow
 Abra o arquivo index.html no seu navegador da web.
 

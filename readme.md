@@ -1,7 +1,7 @@
-# VidFlow - Projeto do Curso Alura
+
 
 ## Descrição
-VidFlow é um projeto desenvolvido durante o curso da escola Alura. Trata-se de uma aplicação web para visualização de vídeos de várias categorias. Você pode assistir a vídeos, pesquisar conteúdo e filtrar vídeos por categoria.
+Trata-se de uma aplicação web para visualização de vídeos de várias categorias. Você pode assistir a vídeos, pesquisar conteúdo e filtrar vídeos por categoria.
 
 ![Screenshot](https://i.imgur.com/QY67Np1.png#vitrinedev)
 
@@ -15,7 +15,7 @@ VidFlow é um projeto desenvolvido durante o curso da escola Alura. Trata-se de 
 - Navegador da web.
 
 ## Instalação
-1. Clone este repositório: `git clone https://github.com/SeijiGabriel/VidFLow.git`
+1. Clone este repositório
 2. Navegue até o diretório do projeto: `cd vidflow`
 3. Abra o arquivo `index.html` no seu navegador da web.
 
